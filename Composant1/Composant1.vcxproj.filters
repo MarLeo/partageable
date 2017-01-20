@@ -14,15 +14,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Composant1.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\interfaces\Composant1.h">
+    <ClInclude Include="Composant1Version.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Composant1Version.h">
+    <ClInclude Include="..\interfaces\Composant4.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -30,5 +25,10 @@
     <ResourceCompile Include="Resource.rc">
       <Filter>Resource</Filter>
     </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Composant4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

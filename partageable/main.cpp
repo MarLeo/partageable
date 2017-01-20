@@ -2,7 +2,7 @@
 #include <windows.h>
 #include <iostream>
 
-#include "composant1.h"
+#include "composant4.h"
 #include "composant2.h"
 
 int main(int argc, char * argv)

@@ -100,14 +100,14 @@
     </ResourceCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Composant1.cpp">
+    <ClCompile Include="Composant4.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">NotUsing</PrecompiledHeader>
       <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
       </PrecompiledHeaderFile>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\interfaces\Composant1.h" />
+    <ClInclude Include="..\interfaces\Composant4.h" />
     <ClInclude Include="Composant1Version.h" />
   </ItemGroup>
   <ItemGroup>

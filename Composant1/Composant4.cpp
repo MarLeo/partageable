@@ -1,5 +1,5 @@
 
-#include "Composant1.h"
+#include "Composant4.h"
 #include "Composant1Version.h"
 
 // declaration des fonctions internes
