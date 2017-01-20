@@ -5,3 +5,5 @@ Backup
 .vs
 ipch
 *~
+/partageable.VC.db
+/partageable.VC.VC.opendb
