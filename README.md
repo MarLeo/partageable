@@ -1,7 +1,7 @@
 # partageable
 
 # dumbpin
-![Alt text] https://github.com/MarLeo/partageable/blob/master/Dumbpin.PNG
+![Alt text]https://github.com/MarLeo/partageable/blob/master/Dumpbin.PNG
 
 
 #Composant 4
