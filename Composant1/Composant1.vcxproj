@@ -14,7 +14,7 @@
     <ProjectGuid>{5001BDBB-2E45-485A-AB91-0C9770A413BC}</ProjectGuid>
     <RootNamespace>Composant1</RootNamespace>
     <Keyword>MFCDLLProj</Keyword>
-    <ProjectName>Composant1</ProjectName>
+    <ProjectName>Composant4</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
