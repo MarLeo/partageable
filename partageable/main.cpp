@@ -20,4 +20,6 @@ int main(int argc, char * argv)
 	std::cout << getComposant1Version() << std::endl;
 	std::cout << "valeur 1 :" << valeur1 << " valeur 2 :" << valeur2 << std::endl;
 	Sleep(1000);
+	system("pause");
+
 }
